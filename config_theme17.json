@@ -1,0 +1,221 @@
+{
+  "HorizonLayout": [
+    {
+      "layout": "bannerImage",
+      "isSlider": true,
+      "showBackground": true,
+      "upHeight": 300.0,
+      "padding": 20.0,
+      "radius": 20.0,
+      "fontSize": 26.0,
+      "items": [
+        {
+          "category": 208,
+          "background": "https://user-images.githubusercontent.com/1459805/62924786-09b73580-bddb-11e9-94e1-a3bc0c00f35d.png",
+          "image": "https://user-images.githubusercontent.com/1459805/62924791-0a4fcc00-bddb-11e9-91e1-63e3018f6af6.png"
+        },
+        {
+          "category": 208,
+          "background": "https://user-images.githubusercontent.com/1459805/62925388-73840f00-bddc-11e9-843b-8f0024836aaf.png",
+          "image": "https://user-images.githubusercontent.com/1459805/62924793-0ae86280-bddb-11e9-860e-737e42831e6f.png"
+        },
+        {
+          "category": 23,
+          "background": "https://user-images.githubusercontent.com/1459805/62924787-09b73580-bddb-11e9-9834-4be535cea5f5.png",
+          "image": "https://user-images.githubusercontent.com/1459805/62924792-0ae86280-bddb-11e9-8532-c9b0cffea5ae.png"
+        },
+        {
+          "category": 208,
+          "background": "https://user-images.githubusercontent.com/1459805/62925389-741ca580-bddc-11e9-85ba-8ba380600883.png",
+          "image": "https://user-images.githubusercontent.com/1459805/62924794-0b80f900-bddb-11e9-9bf0-3cf416c46332.png"
+        }
+      ]
+    },
+    {
+      "layout": "category",
+      "type": "icon",
+      "wrap": true,
+      "size": 1.2,
+      "radius": 50.0,
+      "items": [
+        {
+          "category": 210,
+          "image": "assets/icons/categories/ic_home.png",
+          "colors": [
+            "#12B58C",
+            "#12B58C"
+          ]
+        },
+        {
+          "category": 208,
+          "image": "assets/icons/categories/ic_picture.png",
+          "colors": [
+            "#53A2CC",
+            "#53A2CC"
+          ]
+        },
+        {
+          "category": 211,
+          "image": "assets/icons/categories/ic_glasses.png",
+          "colors": [
+            "#53688A",
+            "#53688A"
+          ]
+        },
+        {
+          "category": 208,
+          "image": "assets/icons/categories/ic_clock.png",
+          "colors": [
+            "#53A2CC",
+            "#53A2CC"
+          ]
+        }
+      ]
+    },
+    {
+      "layout": "header_text",
+      "fontSize": 25.0,
+      "title": "If  you can dream it, \nYou can do it",
+      "padding": 30.0,
+      "showSearch": true,
+      "isSafeArea": true
+    },
+    {
+      "layout": "bannerImage",
+      "isSlider": true,
+      "design": "swiper",
+      "radius": 20.0,
+      "items": [
+        {
+          "category": 208,
+          "image": "https://user-images.githubusercontent.com/1459805/62834035-2899b880-bc71-11e9-9ed8-4ce1790e0460.jpg",
+          "padding": 0.0
+        },
+        {
+          "category": 23,
+          "image": "https://user-images.githubusercontent.com/1459805/62834034-2899b880-bc71-11e9-956b-64e6d0c35d46.jpg",
+          "padding": 0.0
+        },
+        {
+          "category": 208,
+          "image": "https://user-images.githubusercontent.com/1459805/62834031-28012200-bc71-11e9-9980-f090df262343.jpg",
+          "padding": 0.0
+        },
+        {
+          "category": 208,
+          "image": "https://user-images.githubusercontent.com/1459805/62834036-29324f00-bc71-11e9-9262-af0b8ceeba87.jpg",
+          "padding": 0.0
+        }
+      ]
+    },
+    {
+      "name": {
+        "en": "Fashion for Her",
+        "ab": "أزياء لها",
+        "fr": "Mode pour Elle"
+      },
+      "image": "",
+      "layout": "threeColumn",
+      "category": 1117
+    },
+    {
+      "name": {
+        "en": "Fashion for Him",
+        "ab": "أزياء له",
+        "fr": "Mode pour Lui"
+      },
+      "image": "",
+      "layout": "threeColumn",
+      "category": 1009
+    },
+    {
+      "layout": "bannerImage",
+      "isSlider": true,
+      "design": "stack",
+      "height": 0.4,
+      "showBackGround": true,
+      "radius": 20.0,
+      "items": [
+        {
+          "category": 23,
+          "image": "https://user-images.githubusercontent.com/1459805/62924786-09b73580-bddb-11e9-94e1-a3bc0c00f35d.png",
+          "padding": 15.0
+        },
+        {
+          "category": 208,
+          "image": "https://user-images.githubusercontent.com/1459805/62925388-73840f00-bddc-11e9-843b-8f0024836aaf.png",
+          "padding": 15.0
+        },
+        {
+          "category": 21,
+          "image": "https://user-images.githubusercontent.com/1459805/62924787-09b73580-bddb-11e9-9834-4be535cea5f5.png",
+          "padding": 15.0
+        }
+      ]
+    },
+    {
+      "name": {
+        "en": "Electronic",
+        "ab": "صنع في بنين",
+        "fr": "Electronique"
+      },
+      "image": "",
+      "layout": "threeColumn",
+      "category": 25
+    },
+    {
+      "layout": "bannerImage",
+      "items": [
+        {
+          "category": 37,
+          "image": "https://user-images.githubusercontent.com/1459805/62924800-0cb22600-bddb-11e9-8aa0-44782a5cabf2.png",
+          "padding": 15.0,
+          "radius": 20.0
+        }
+      ]
+    },
+    {
+      "name": {
+        "en": "Hygiene and Beauty",
+        "ab": "النظافة والجمال",
+        "fr": "Hygiène et Beauté"
+      },
+      "image": "",
+      "layout": "twoColumn",
+      "category": 883
+    },
+    {
+      "layout": "bannerImage",
+      "items": [
+        {
+          "category": 37,
+          "image": "https://user-images.githubusercontent.com/1459805/62924796-0b80f900-bddb-11e9-98a6-8bc87bd4caaa.png",
+          "padding": 15.0,
+          "radius": 20.0
+        }
+      ]
+    }
+    {
+      "name": {
+        "en": "Hygiene and Beauty",
+        "ab": "النظافة والجمال",
+        "fr": "Jeux video"
+      },
+      "image": "",
+      "layout": "twoColumn",
+      "category": 883
+    },
+  ],
+  "VerticalLayout": {
+    "layout": "select",
+    "name": {
+      "en": "Our Products",
+      "ab": "مجموعات الرجل",
+      "vi": "Bộ sưu tập gần "
+    }
+  },
+  "Setting": {
+    "MainColor": "#DD3333",
+    "ProductListLayout": "list"
+  }
+}
