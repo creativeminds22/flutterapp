@@ -194,7 +194,7 @@
           "radius": 20.0
         }
       ]
-    }
+    },
     {
       "name": {
         "en": "Hygiene and Beauty",
@@ -204,7 +204,7 @@
       "image": "",
       "layout": "twoColumn",
       "category": 883
-    },
+    }
   ],
   "VerticalLayout": {
     "layout": "select",
