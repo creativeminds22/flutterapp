@@ -39,17 +39,6 @@
       "category": 884
     },
     {
-      "layout": "bannerImage",
-      "items": [
-        {
-          "category": 37,
-          "image": "https://user-images.githubusercontent.com/1459805/62924800-0cb22600-bddb-11e9-8aa0-44782a5cabf2.png",
-          "padding": 15.0,
-          "radius": 20.0
-        }
-      ]
-    },
-    {
       "layout": "header_text",
       "fontSize": 25.0,
       "title": "Les sneakers du moment!",
@@ -122,7 +111,7 @@
       },
       "image": "",
       "layout": "twoColumn",
-      "category": 881
+      "category": 1308
     }
   ],
 
