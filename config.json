@@ -8,13 +8,13 @@
       "padding": 20.0,
       "radius": 20.0,
       "fontSize": 26.0,
-	    "title": "Ils sont disponible, trouvez le votre"
-	    "showSearch": true,
+      "title": "Ils sont disponible, Achetez maintenant",
+      "showSearch": true,
       "items": [
         {
           "category": 208,
           "background": "https://user-images.githubusercontent.com/1459805/62924786-09b73580-bddb-11e9-94e1-a3bc0c00f35d.png",
-          "image": "https://user-images.githubusercontent.com/1459805/62924791-0a4fcc00-bddb-11e9-91e1-63e3018f6af6.png"
+          "image": "https://flutterapp.onaayo.now.sh/newapple.jpg"
         },
         {
           "category": 208,
@@ -69,12 +69,12 @@
       "items": [
         {
           "category": 208,
-          "image": "https://user-images.githubusercontent.com/1459805/62834035-2899b880-bc71-11e9-9ed8-4ce1790e0460.jpg",
+          "image": "https://flutterapp.onaayo.now.sh/sneaker2.jpg",
           "padding": 0.0
         },
         {
           "category": 23,
-          "image": "https://user-images.githubusercontent.com/1459805/62834034-2899b880-bc71-11e9-956b-64e6d0c35d46.jpg",
+          "image": "https://flutterapp.onaayo.now.sh/sneaker2.jpg",
           "padding": 0.0
         },
         {
