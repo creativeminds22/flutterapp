@@ -13,7 +13,7 @@
       "items": [
         {
           "category": 208,
-          "background": "flutterapp.onaayo.now.sh/applestore.jpg",
+          "background": "https://flutterapp.onaayo.now.sh/applestore.jpg",
           "image": "https://flutterapp.onaayo.now.sh/newapple.jpg"
         },
         {
@@ -24,7 +24,7 @@
         {
           "category": 23,
           "background": "https://www.youtube.com/watch?v=5bvcyIV4yzo",
-          "image": "https://user-images.githubusercontent.com/1459805/62924792-0ae86280-bddb-11e9-8532-c9b0cffea5ae.png"
+          "image": "https://flutterapp.onaayo.now.sh/applewatch.jpg"
         }
       ]
     },
