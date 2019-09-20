@@ -100,7 +100,7 @@
         "fr": "Hygiène et Beauté"
       },
       "image": "",
-      "layout": "twoColumn",
+      "layout": "threeColumn",
       "category": 1064
     },
     {
@@ -110,7 +110,7 @@
         "fr": "Bijoux"
       },
       "image": "",
-      "layout": "twoColumn",
+      "layout": "threeColumn",
       "category": 1308
     }
   ],
