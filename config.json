@@ -8,7 +8,7 @@
       "padding": 20.0,
       "radius": 20.0,
       "fontSize": 26.0,
-      "title": "Ils sont disponible, Achetez maintenant",
+      "title": "Iphone 11...?",
       "showSearch": true,
       "items": [
         {
@@ -18,30 +18,25 @@
         },
         {
           "category": 208,
-          "background": "https://user-images.githubusercontent.com/1459805/62925388-73840f00-bddc-11e9-843b-8f0024836aaf.png",
-          "image": "https://user-images.githubusercontent.com/1459805/62924793-0ae86280-bddb-11e9-860e-737e42831e6f.png"
+          "background": "https://youtu.be/H4p6njjPV_o",
+          "image": "https://flutterapp.onaayo.now.sh/iphone11.jpg"
         },
         {
           "category": 23,
-          "background": "https://user-images.githubusercontent.com/1459805/62924787-09b73580-bddb-11e9-9834-4be535cea5f5.png",
+          "background": "https://www.youtube.com/watch?v=5bvcyIV4yzo",
           "image": "https://user-images.githubusercontent.com/1459805/62924792-0ae86280-bddb-11e9-8532-c9b0cffea5ae.png"
-        },
-        {
-          "category": 208,
-          "background": "https://user-images.githubusercontent.com/1459805/62925389-741ca580-bddc-11e9-85ba-8ba380600883.png",
-          "image": "https://user-images.githubusercontent.com/1459805/62924794-0b80f900-bddb-11e9-9bf0-3cf416c46332.png"
         }
       ]
     },
     {
       "name": {
-        "en": "Electronic",
-        "ab": "صنع في بنين",
-        "fr": "Electronique"
+        "en": "Telephony",
+        "ab": "مهاتفة",
+        "fr": "Téléphonie"
       },
       "image": "",
       "layout": "threeColumn",
-      "category": 25
+      "category": 884
     },
     {
       "layout": "bannerImage",
@@ -57,7 +52,7 @@
     {
       "layout": "header_text",
       "fontSize": 25.0,
-      "title": "Nike, Adidas, Fila...Découvrez notre collection de sneakers",
+      "title": "Les sneakers du moment!",
       "padding": 30.0,
       "isSafeArea": true
     },
@@ -68,23 +63,23 @@
       "radius": 20.0,
       "items": [
         {
-          "category": 208,
+          "category": 994,
+          "image": "https://flutterapp.onaayo.now.sh/sneaker.jpg",
+          "padding": 0.0
+        },
+        {
+          "category": 994,
           "image": "https://flutterapp.onaayo.now.sh/sneaker2.jpg",
           "padding": 0.0
         },
         {
-          "category": 23,
-          "image": "https://flutterapp.onaayo.now.sh/sneaker2.jpg",
+          "category": 1032,
+          "image": "https://flutterapp.onaayo.now.sh/sneaker3.jpg",
           "padding": 0.0
         },
         {
-          "category": 208,
-          "image": "https://user-images.githubusercontent.com/1459805/62834031-28012200-bc71-11e9-9980-f090df262343.jpg",
-          "padding": 0.0
-        },
-        {
-          "category": 208,
-          "image": "https://user-images.githubusercontent.com/1459805/62834036-29324f00-bc71-11e9-9262-af0b8ceeba87.jpg",
+          "category": 1032,
+          "image": "https://flutterapp.onaayo.now.sh/sneaker4.jpg",
           "padding": 0.0
         }
       ]
@@ -117,28 +112,17 @@
       },
       "image": "",
       "layout": "twoColumn",
-      "category": 883
-    },
-    {
-      "layout": "bannerImage",
-      "items": [
-        {
-          "category": 37,
-          "image": "https://user-images.githubusercontent.com/1459805/62924796-0b80f900-bddb-11e9-98a6-8bc87bd4caaa.png",
-          "padding": 15.0,
-          "radius": 20.0
-        }
-      ]
+      "category": 1064
     },
     {
       "name": {
-        "en": "Games",
-        "ab": "النظافة والجمال",
-        "fr": "Jeux video"
+        "en": "Jewelry",
+        "ab": "مجوهرات",
+        "fr": "Bijoux"
       },
       "image": "",
       "layout": "twoColumn",
-      "category": 883
+      "category": 881
     }
   ],
 
