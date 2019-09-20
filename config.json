@@ -4,28 +4,26 @@
       "layout": "bannerImage",
       "isSlider": true,
       "autoPlay": true,
-      "video": true,
       "showBackground": true,
       "upHeight": 300.0,
       "padding": 20.0,
       "radius": 20.0,
       "fontSize": 26.0,
-      "title": "Ne faites pas la queue..",
       "showSearch": true,
       "items": [
         {
-          "category": 208,
-          "background": "https://flutterapp.onaayo.now.sh/applestore.jpg",
+          "category": 1634,
+          "background": "https://flutterapp.onaayo.now.sh/applelogo.jpg",
           "image": "https://flutterapp.onaayo.now.sh/newapple.jpg"
         },
         {
-          "category": 208,
-          "background": "https://youtu.be/H4p6njjPV_o",
+          "category": 1634,
+          "background": "https://flutterapp.onaayo.now.sh/11.jpg",
           "image": "https://flutterapp.onaayo.now.sh/iphone11.jpg"
         },
         {
-          "category": 23,
-          "background": "https://www.youtube.com/watch?v=5bvcyIV4yzo",
+          "category": 1634,
+          "background": "https://flutterapp.onaayo.now.sh/applewatch2.jpg",
           "image": "https://flutterapp.onaayo.now.sh/applewatch.jpg"
         }
       ]
