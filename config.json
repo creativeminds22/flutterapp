@@ -1,3 +1,4 @@
+
 {
   "HorizonLayout": [
     {
@@ -118,5 +119,23 @@
   "Setting": {
     "MainColor": "#DD3333",
     "ProductListLayout": "list"
+  },
+  "TabBar": {
+    "Home": {
+      "isDisplay": true
+    },
+    "Category": {
+      "isDisplay": true,
+      "layout": "column"
+    },
+    "Search": {
+      "isDisplay": true
+    },
+    "Cart": {
+      "isDisplay": true
+    },
+    "Profile": {
+      "isDisplay": true
+    }
   }
 }
