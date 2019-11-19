@@ -2,6 +2,11 @@
 {
   "HorizonLayout": [
     {
+      "layout": "logo",
+      "showMenu": true,
+      "showSearch": true
+    },
+    {
       "layout": "bannerImage",
       "isSlider": true,
       "autoPlay": true,
