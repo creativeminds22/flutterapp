@@ -1,10 +1,30 @@
 
 {
+  "Background": {
+    "height": 0.3,
+    "color": "#DD3333"
+  },
   "HorizonLayout": [
     {
       "layout": "logo",
       "showMenu": true,
       "showSearch": true
+    },
+    {
+      "layout": "header_text",
+      "fontSize": 23.0,
+      "height": 0.11,
+      "padding": 30.0,
+      "rotate": [
+        "Acheter facilement",
+        "Payer sûrement",
+        "Livraison Rapide"
+      ],
+      "type": "fade"
+    },
+    {
+      "layout": "header_search",
+      "text": "Search for a product"
     },
     {
       "layout": "bannerImage",
