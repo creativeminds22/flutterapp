@@ -145,22 +145,27 @@
     "MainColor": "#DD3333",
     "ProductListLayout": "list"
   },
-  "TabBar": {
-    "Home": {
-      "isDisplay": true
+  "TabBar": [
+    {
+      "layout": "home",
+      "icon": "assets/icons/tabs/icon-home.png"
     },
-    "Category": {
-      "isDisplay": true,
-      "layout": "column"
+    {
+      "layout": "category",
+      "categoryLayout": "card",
+      "icon": "assets/icons/tabs/icon-category.png"
     },
-    "Search": {
-      "isDisplay": true
+    {
+      "layout": "search",
+      "icon": "assets/icons/tabs/icon-search.png"
     },
-    "Cart": {
-      "isDisplay": true
+    {
+      "layout": "cart",
+      "icon": "assets/icons/tabs/icon-cart2.png"
     },
-    "Profile": {
-      "isDisplay": true
+    {
+      "layout": "profile",
+      "icon": "assets/icons/tabs/icon-user.png"
     }
-  }
+  ]
 }
