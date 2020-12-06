@@ -38,8 +38,7 @@
 "showText":true
 }
 ],
-"line":false,
-"columns":3
+"line":true
 },
 {
 "layout":"category",
@@ -73,8 +72,7 @@
 "showText":true
 }
 ],
-"line":false,
-"columns":3
+"line":true
 },
 {
 "layout":"bannerImage",
