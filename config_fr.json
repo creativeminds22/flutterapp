@@ -9,8 +9,8 @@
 {
 "layout":"category",
 "type":"icon",
-"wrap":false,
-"size":1.2,
+"wrap":true,
+"size":1.8,
 "radius":100.0,
 "items":[
 {
@@ -179,7 +179,7 @@
 "items":[
 {
 "image":"https://onaayo.com/bj/wp-content/uploads/sites/3/2019/08/nikecom-homepage-emea-3.jpg",
-"padding":15.0,
+"padding":25.0,
 "category":994
 }
 ]
