@@ -144,136 +144,37 @@
 "StickyHeader":true,
 "ProductDetail":"simpleType"
 },
-"TabBar":[
-{
-"pos":100,
-"layout":"home",
-"icon":"home",
-"data":{
-"subHeader":"This is sub heading",
-"id":1,
-"container":{
-"header":{
-"background":"#000000",
-"align":{
-"y":0.8,
-"x":-1
-},
-"text":"About US",
-"color":"#FFFFFF",
-"padding":{
-"horizontal":20,
-"vertical":10}
-},
-"image":{
-"height":0.5,
-"width":1,
-"align":{
-"y":1,
-"x":1
-},
-"url":"https://images.unsplash.com/photo-1584352587534-5763683125b5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2700&q=80"
-},
-"height":0.5
-},
-"description":"This is description"
-},
-"showChat":false
-},
-{
-"layout":"category",
-"images":["briefcase",
-"chrome",
-"download",
-"compass",
-"instagram",
-"activity",
-"map",
-"package",
-"camera",
-"briefcase",
-"chrome",
-"download",
-"compass",
-"instagram",
-"activity",
-"map",
-"package",
-"camera",
-"briefcase",
-"chrome",
-"download",
-"compass",
-"instagram",
-"activity",
-"map",
-"package",
-"camera",
-"briefcase",
-"chrome",
-"download",
-"compass",
-"instagram",
-"activity",
-"map",
-"package",
-"camera",
-"briefcase",
-"chrome",
-"download",
-"compass",
-"instagram",
-"activity",
-"map",
-"package",
-"camera",
-"briefcase",
-"chrome",
-"download",
-"compass"],
-"categories":["1414",
-"897",
-"873",
-"1064",
-"1215",
-"968",
-"1077",
-"884"],
-"categoryLayout":"card",
-"icon":"layout",
-"pos":300,
-"showChat":true
-},
-{
-"pos":400,
-"layout":"search",
-"icon":"assets/icons/tabs/icon-search.png"
-},
-{
-"pos":500,
-"layout":"cart",
-"icon":"shopping_bag",
-"showChat":true
-},
-{
-"pos":600,
-"settings":["products",
-"chat",
-"wishlist",
-"notifications",
-"language",
-"currencies",
-"order",
-"point",
-"rating",
-"privacy",
-"about"],
-"background":"https://i.imgur.com/NzYksQE.png",
-"layout":"profile",
-"icon":"assets/icons/tabs/icon-user.png",
-"showChat":true
-}
-],
+  "TabBar": [{
+    "layout": "home",
+    "icon": "assets/icons/tabs/icon-home.png"
+  },
+    {
+      "layout": "vendors",
+      "categoryLayout": "card",
+      "icon": "assets/icons/tabs/icon-category.png"
+    },
+    {
+      "layout": "search",
+      "icon": "assets/icons/tabs/icon-search.png",
+      "showChat": true
+    },
+    {
+      "layout": "cart",
+      "icon": "assets/icons/tabs/icon-cart2.png"
+    },
+    {
+      "layout": "profile",
+      "background":"https://i.imgur.com/NzYksQE.png",
+      "icon": "assets/icons/tabs/icon-user.png",
+      "showChat": true
+    }
+  ],
+  "searchSuggestion": [
+    "man",
+    "dress",
+    "Stitch",
+    "ma"
+  ],
 "Drawer":{
 "logo":"https://i.imgur.com/fvEsdwe.png",
 "items":[
