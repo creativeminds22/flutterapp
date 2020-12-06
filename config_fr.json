@@ -63,8 +63,8 @@
 "showText":true
 }
 ],
-"line":true,
-"columns":4
+"line":false,
+"columns":3
 },
 {
 "layout":"bannerImage",
