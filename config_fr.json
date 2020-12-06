@@ -9,7 +9,7 @@
 {
 "layout":"category",
 "type":"icon",
-"wrap":true,
+"wrap":false,
 "size":1.8,
 "radius":100.0,
 "items":[
