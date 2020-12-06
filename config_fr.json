@@ -10,8 +10,8 @@
 "layout":"category",
 "type":"icon",
 "wrap":false,
-"size":2.0,
-"radius":50.0,
+"size":1.2,
+"radius":100.0,
 "items":[
 {
 "category":454,
