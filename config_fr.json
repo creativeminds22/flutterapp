@@ -41,6 +41,34 @@
 "line":true
 },
 {
+"layout":"bannerImage",
+"isSlider":true,
+"autoPlay":true,
+"showNumber": false,
+"design": "default",
+"showBackGround": true,
+"radius": 1.0,
+"height": 0.30,
+"items":[
+{
+"image":"https://flutterapp.now.sh/1.jpg",
+"padding":15.0,
+"category":243
+},
+{
+"image":"https://flutterapp.now.sh/2.jpg",
+"padding":15.0,
+"tag":96
+},
+{
+"image":"https://flutterapp.now.sh/3.jpg",
+"padding":15.0,
+"category":454
+}
+],
+"radius":10.0
+},
+{
 "layout":"category",
 "type":"icon",
 "wrap":true,
@@ -73,34 +101,6 @@
 }
 ],
 "line":true
-},
-{
-"layout":"bannerImage",
-"isSlider":true,
-"autoPlay":true,
-"showNumber": false,
-"design": "default",
-"showBackGround": true,
-"radius": 1.0,
-"height": 0.30,
-"items":[
-{
-"image":"https://flutterapp.now.sh/1.jpg",
-"padding":15.0,
-"category":243
-},
-{
-"image":"https://flutterapp.now.sh/2.jpg",
-"padding":15.0,
-"tag":96
-},
-{
-"image":"https://flutterapp.now.sh/3.jpg",
-"padding":15.0,
-"category":454
-}
-],
-"radius":10.0
 },
 {
 "layout":"threeColumn",
