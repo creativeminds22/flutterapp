@@ -67,13 +67,27 @@
 {
 "layout":"bannerImage",
 "isSlider":true,
-"autoPlay":false,
-"design":"custom",
+"autoPlay":true,
+"showNumber": false,
+"design": "default",
+"showBackGround": true,
+"radius": 2.0,
+"height": 0.15,
 "items":[
 {
-"image":"http://paymalin.com/wp-content/uploads/2020/10/large-20-1-300x300.jpg",
+"image":"https://flutterapp.now.sh/1.jpg",
 "padding":15.0,
-"category":994
+"category":243
+},
+{
+"image":"https://flutterapp.now.sh/2.jpg",
+"padding":15.0,
+"tag":96
+},
+{
+"image":"https://flutterapp.now.sh/3.jpg",
+"padding":15.0,
+"category":454
 }
 ],
 "radius":10.0
