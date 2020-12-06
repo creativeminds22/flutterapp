@@ -36,17 +36,7 @@
 "#43506A"],
 "originalColor":true,
 "showText":true
-}
-],
-"line":true
 },
-{
-"layout":"category",
-"type":"icon",
-"wrap":true,
-"size":1.8,
-"radius":100.0,
-"items":[
 {
 "category":188,
 "image":"https://flutterapp.now.sh/7.jpg",
