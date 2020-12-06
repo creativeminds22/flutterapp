@@ -8,10 +8,10 @@
 },
 {
 "layout":"category",
-"type":"image",
+"type":"icon",
 "wrap":false,
-"size":0.1,
-"radius":0.0,
+"size":2.0,
+"radius":50.0,
 "items":[
 {
 "category":454,
@@ -71,8 +71,8 @@
 "showNumber": false,
 "design": "default",
 "showBackGround": true,
-"radius": 2.0,
-"height": 0.15,
+"radius": 1.0,
+"height": 0.30,
 "items":[
 {
 "image":"https://flutterapp.now.sh/1.jpg",
